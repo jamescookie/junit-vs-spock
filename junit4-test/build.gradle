@@ -1,0 +1,7 @@
+evaluationDependsOn(':source')
+
+dependencies {
+	compile project(":source")
+	testImplementation('junit:junit:4.13')
+	testImplementation('org.assertj:assertj-core:3.13.2')
+}

@@ -1,0 +1,9 @@
+plugins {
+	id 'groovy'
+}
+
+dependencies {
+	compile 'org.codehaus.groovy:groovy-all:2.4.7'
+	compile project(":source")
+	testImplementation 'org.spockframework:spock-core:1.3-groovy-2.4'
+}

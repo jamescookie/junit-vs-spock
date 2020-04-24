@@ -1,0 +1,18 @@
+
+dependencies {
+	compile project(":source")
+	testImplementation('org.junit.jupiter:junit-jupiter:5.5.2')
+	testImplementation('org.assertj:assertj-core:3.13.2')
+
+	testImplementation('org.junit.jupiter:junit-jupiter-params:5.5.2')
+
+	testImplementation('org.mockito:mockito-junit-jupiter:3.1.0')
+
+	testImplementation('com.fasterxml.jackson.core:jackson-databind:2.9.8')
+
+	testImplementation('org.awaitility:awaitility:3.0.0')
+}
+
+test {
+	useJUnitPlatform()
+}

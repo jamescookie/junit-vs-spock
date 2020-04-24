@@ -1,0 +1,4 @@
+include 'source'
+include 'junit4-test'
+include 'junit5-test'
+include 'spock-test'

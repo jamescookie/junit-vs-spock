@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5198bb3c-1934-4c85-a0b5-ba65461a59f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ar7mUcd1iH3wkzHb24psFLh75z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spock-test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spock-test" />
+      <recent name="$PROJECT_DIR$/junit4-test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/junit5-test" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/source/src/main" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.TestingExamplesSpec.async assertion">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingExamplesSpec.async assertion" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.demo.TestingExamplesSpec.async assertion&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spock-test:cleanTest" />
+            <option value=":spock-test:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingExamplesSpec.json parsing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.demo.TestingExamplesSpec.json parsing&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spock-test:cleanTest" />
+            <option value=":spock-test:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingExamplesSpec.mass of solar system" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.demo.TestingExamplesSpec.mass of solar system&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spock-test:cleanTest" />
+            <option value=":spock-test:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingExamplesTests.asyncAssertion" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.demo.TestingExamplesTests.asyncAssertion&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":junit5-test:cleanTest" />
+            <option value=":junit5-test:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingExamplesTests.jsonParsing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.demo.TestingExamplesTests.jsonParsing&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":junit5-test:cleanTest" />
+            <option value=":junit5-test:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="junit-vs-spock.source.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestingExamplesSpec.async assertion" />
+        <item itemvalue="Gradle.TestingExamplesTests.asyncAssertion" />
+        <item itemvalue="Gradle.TestingExamplesSpec.json parsing" />
+        <item itemvalue="Gradle.TestingExamplesTests.jsonParsing" />
+        <item itemvalue="Gradle.TestingExamplesSpec.mass of solar system" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5198bb3c-1934-4c85-a0b5-ba65461a59f8" name="Default Changelist" comment="" />
+      <created>1587482017147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587482017147</updated>
+      <workItem from="1587482020026" duration="20440000" />
+      <workItem from="1587736274493" duration="2755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1079" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587637508566">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state x="1079" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/80.23.2480.1417@80.23.2480.1417" timestamp="1587637508566" />
+    <state width="2438" height="316" key="GridCell.Tab.0.bottom" timestamp="1587740371923">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state width="2438" height="316" key="GridCell.Tab.0.bottom/80.23.2480.1417@80.23.2480.1417" timestamp="1587740371923" />
+    <state width="2438" height="316" key="GridCell.Tab.0.center" timestamp="1587740371923">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state width="2438" height="316" key="GridCell.Tab.0.center/80.23.2480.1417@80.23.2480.1417" timestamp="1587740371923" />
+    <state width="2438" height="316" key="GridCell.Tab.0.left" timestamp="1587740371922">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state width="2438" height="316" key="GridCell.Tab.0.left/80.23.2480.1417@80.23.2480.1417" timestamp="1587740371922" />
+    <state width="2438" height="316" key="GridCell.Tab.0.right" timestamp="1587740371923">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state width="2438" height="316" key="GridCell.Tab.0.right/80.23.2480.1417@80.23.2480.1417" timestamp="1587740371923" />
+    <state x="975" y="353" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587483617644">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state x="975" y="353" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/80.23.2480.1417@80.23.2480.1417" timestamp="1587483617644" />
+    <state x="714" y="458" key="new project wizard" timestamp="1587482961190">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state x="714" y="458" key="new project wizard/80.23.2480.1417@80.23.2480.1417" timestamp="1587482961190" />
+    <state x="985" y="348" key="search.everywhere.popup" timestamp="1587638936441">
+      <screen x="80" y="23" width="2480" height="1417" />
+    </state>
+    <state x="985" y="348" key="search.everywhere.popup/80.23.2480.1417@80.23.2480.1417" timestamp="1587638936441" />
+  </component>
+</project>
